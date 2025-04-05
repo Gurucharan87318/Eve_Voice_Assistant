@@ -52,10 +52,11 @@ pip install -r requirements.txt
 
 ### 5. Run the Assistant
 1. firstly setup two command prompt windows
-2. then in first CL add the path of your "rasa_proj" (eg:"C:\Users\Gurucharan\Downloads\chatbot\rasa_proj")
+2. then in first CL add the path of your "rasa_proj" (eg:"C:\Users\yourname\Downloads\chatbot\rasa_proj")
 3. after path make it run in rasa env using "rasa_env\scripts\activate" (make sure u do this before "cd rasa_proj") after this type "rasa run"
 4. same follows for "rasa_code"
 5. "(rasa_env) C:\Users\Gurucharan\Downloads\chatbot\rasa_code>" it looks like this (type "python voice_bot.py")
+6. install essential code and arrange it inside "C:\Users\yourname\Downloads\chatbot" 
 
 ```bash
 python voice_bot.py
