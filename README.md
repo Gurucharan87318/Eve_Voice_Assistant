@@ -60,6 +60,20 @@ pip install -r requirements.txt
 ```bash
 python voice_bot.py
 ```
+###installations pip
+pip install pillow
+pip install SpeechRecognition
+pip install pyttsx3
+pip install gpt4all
+pip install pywin32  # For win32com.client
+pip install pyautogui  # Optional for mouse control
+
+###installations rasa
+pip install rasa
+rasa init #create new proj
+rasa train #train model
+rasa shell #test model
+
 
 ## Roadmap
 - [x] Voice recognition
